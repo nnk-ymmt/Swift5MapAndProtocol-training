@@ -1,3 +1,3 @@
 # Swift5MapAndProtocol-training
 iOS Boot Camp　Swift5MapAndProtocol  
-・UIGestureRecognizerDelegate,プロトコル作成,MapKit,緯度経度から住所に変換,delegateについて
+・MapKitViewから緯度経度を取得し住所に変換する方法,緯度経度からMapKitViewに表示させる方法,プロトコル作成,delegateについて
